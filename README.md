@@ -6,7 +6,7 @@ There are no in-game options. All settings are hard-coded.
 
 ## Features
 
-- Style default tooltip
+- Style default tooltips
     - Class colour names
     - Class colour health status bar
     - Re-position health status bar inside tooltip

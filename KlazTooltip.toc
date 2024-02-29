@@ -1,0 +1,12 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffTooltip|r
+## Author: Klaz
+## Notes: Styles default tooltips.
+## IconTexture: Interface\AddOns\KlazTooltip\Media\KlazAddOnIcon.blp
+
+Core\Localization.lua
+Core\Functions.lua
+
+Modules\HealthValue.lua
+Modules\SpellID.lua
+Modules\Style.lua
